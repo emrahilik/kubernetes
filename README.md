@@ -1,2 +1,1 @@
-# kubernetes
-Helm-interview-CKDA
+# chart
